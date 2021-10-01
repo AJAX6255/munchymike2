@@ -1,4 +1,4 @@
-# Battlesnake FALL 2021 NodeJS AI
+# munchymike2 Battlesnake FALL 2021 NodeJS AI
 ![Battlesnake 2021](./static/logo.png)
 
 This is my entry for [Battlesnake](https://www.battlesnake.io) 2021 Fall competition, and is my first attempt at at generating one in NodeJS.
