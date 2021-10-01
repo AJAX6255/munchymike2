@@ -3,6 +3,7 @@
 
 This is my entry for [Battlesnake](https://www.battlesnake.io) 2021 Fall competition, and is my first attempt at at generating one in NodeJS.
 
+The strongest influence on this was by Samuel Pratts herbert-the-worm that uses JS and a-star.
 Also influenced by the great work of Tyrel Hiebert (https://github.com/tyrelh/battlesnake2020).
 Who built his snakes from [NodeJS starter snake](https://github.com/battlesnakeio/starter-snake-node) provided by the [Battlesnake community](https://github.com/battlesnakeio/community).
 https://github.com/tyrelh/battlesnake2020
