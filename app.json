@@ -1,7 +1,7 @@
 {
-  "name": "munchymike2",
-  "description": "FAll 2021 Battlesnake AI written in NodeJS",
-  "repository": "https://github.com/AJAX6255/munchymike2",
-  
-  "keywords": ["NodeJS","battlesnake", "battlesnake.io", "ai"]
+    "name": "munchymike2",
+    "description": "FAll 2021 Battlesnake AI written in NodeJS",
+    "repository": "https://github.com/heroku/munchymike2",
+    "keywords": ["node", "express", "AI", "heroku"],
+    "image": "heroku/nodejs"
 }
