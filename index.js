@@ -9,7 +9,6 @@ const handleEnd = require('./routes/end');
 
 const PORT = process.env.PORT || 3000;
 const app = express();
-const express = require('express');
 
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
